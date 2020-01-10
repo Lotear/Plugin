@@ -1,0 +1,6 @@
+name: TimeKill
+version: 1.0
+author: Lotear
+main: com.Lotear.TimeKill.Main
+commands:
+  game:
